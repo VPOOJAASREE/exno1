@@ -31,21 +31,21 @@ import pandas as pd
 df=pd.read_csv('/content/SAMPLEIDS.csv')
 df
 ```
-OUTPUT:
+#OUTPUT:
 ![1](https://github.com/user-attachments/assets/d176f421-3bc0-472f-ab88-1a6ef3962ff4)
 
 
 ```
 df.head(5)
 ```
-OUTPUT:
+#OUTPUT:
 ![2](https://github.com/user-attachments/assets/b8f433f2-f7c1-4b9c-a9e1-d5253b0f8b0b)
 
 
 ```
 df.tail(5)
 ```
-OUTPUT:
+#OUTPUT:
 ![3](https://github.com/user-attachments/assets/37bc2874-5b34-4a17-b359-4b2df0b463f8)
 
 
